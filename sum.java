@@ -5,7 +5,7 @@ public class sum {
     int a = sc.nextInt();
     System.out.println("Enter the second number: ");
     int b = sc.nextInt();
-    int Sum = a - b;
+    int Sum = a + b;
     System.out.println("Sum: " + Sum);
     }
    }
